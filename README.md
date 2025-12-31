@@ -1,4 +1,4 @@
-# 📸 Marvellous Image Classifier
+# 📸  Real-Time Image Classifier Using CNN
 
 A **real-time image classification application** built using **MobileNetV2** (pre-trained on ImageNet).  
 This project captures frames from your webcam, processes them, and overlays the predicted class label with confidence score directly on the video stream.
